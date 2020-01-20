@@ -4,6 +4,6 @@ master area
 
 
 
-apple area
+test area
 1
 2
