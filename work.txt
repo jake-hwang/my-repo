@@ -1,9 +1,14 @@
 master area
 1
+<<<<<<< HEAD
 283284302
 master modify.....
 master......
 master 3
+=======
+233333
+
+>>>>>>> test
 
 
 test area
